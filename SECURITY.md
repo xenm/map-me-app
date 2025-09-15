@@ -76,4 +76,4 @@ The following are generally considered out of scope:
 
 ---
 
-*This security policy is effective as of January 2025 and may be updated periodically to reflect changes in our security practices and procedures.*
+*This security policy is effective as of September 2025 and may be updated periodically to reflect changes in our security practices and procedures.*
