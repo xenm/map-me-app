@@ -5,6 +5,8 @@ Thank you for your interest in contributing to MapMe! This document provides gui
 ## License Agreement
 By contributing code to MapMe, you agree that your contributions will be licensed under the same [PolyForm Noncommercial License 1.0.0](LICENSE) as the project.
 
+Questions about licensing? Contact [💬 Adam Zaplatílek](mailto:adam.zaplatilek@gmail.com)
+
 ## What You Can Contribute
 - ✅ Bug fixes and improvements
 - ✅ New features that enhance the platform
@@ -24,15 +26,13 @@ By contributing code to MapMe, you agree that your contributions will be license
 4. Submit a pull request
 5. Ensure your code follows the project standards
 
-Questions about licensing? Contact [💬 Adam Zaplatílek](mailto:adam.zaplatilek@gmail.com)
-
 ## Getting Started
 
 ### Prerequisites
 - .NET 10 SDK (preview)
 - Git
 - Modern IDE (Visual Studio, Rider, or VS Code)
-- Google Maps API key for testing
+- Google Maps & Google Auth API keys for testing
 
 ### Development Setup
 1. **Fork and Clone**
